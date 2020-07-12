@@ -1,11 +1,8 @@
 import feedparser
 import pathlib
 import re
-import os
 
 root = pathlib.Path(__file__).parent.resolve()
-
-TOKEN = os.environ.get("SIMONW_TOKEN", "")
 
 
 def replace_chunk(content, marker, chunk, inline=False):
