@@ -11,7 +11,9 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 [My Site](https://eugeneyan.com) • [Email](mailto:eugene@eugeneyan.com) • [Twitter](https://twitter.com/eugeneyan) • [LinkedIn](https://www.linkedin.com/in/eugeneyan) • [Other README](https://eugeneyan.com/readme/)
 
 <hr>
+
 ### Recent Writing
+
 <!-- writing starts -->
 <!-- writing ends -->
 
