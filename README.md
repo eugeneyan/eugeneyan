@@ -9,3 +9,10 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 - ⚡ Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 [My Site](https://eugeneyan.com) • [Email](mailto:eugene@eugeneyan.com) • [Twitter](https://twitter.com/eugeneyan) • [LinkedIn](https://www.linkedin.com/in/eugeneyan) • [Other README](https://eugeneyan.com/readme/)
+
+
+### Recent Writing
+<!-- writing starts -->
+<!-- writing ends -->
+
+View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
