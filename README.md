@@ -10,7 +10,7 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 
 ---
 
-### Recent Writing
+### 📝 Recent Writing
 
 <!-- writing starts -->
 * [What I Do During A Data Science Project To Ensure Success](https://eugeneyan.com//writing/what-i-do-during-a-data-science-project-to-ensure-success/) - Sun, 12 Jul 2020
