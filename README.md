@@ -10,9 +10,11 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 
 [My Site](https://eugeneyan.com) • [Email](mailto:eugene@eugeneyan.com) • [Twitter](https://twitter.com/eugeneyan) • [LinkedIn](https://www.linkedin.com/in/eugeneyan) • [Other README](https://eugeneyan.com/readme/)
 
-
+<hr>
 ### Recent Writing
 <!-- writing starts -->
 <!-- writing ends -->
 
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
+
+<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" alt="Build README"></a>
