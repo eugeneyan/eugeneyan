@@ -5,7 +5,7 @@ on:
   schedule:
     - cron:  '00 * * * *'
 jobs:
-  tests:
+  build:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
