@@ -11,11 +11,11 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Why You Need to Follow Up After Your Data Science Project](https://eugeneyan.com//writing/why-you-need-to-follow-up-after-your-data-science-project/) - Sun, 19 Jul 2020
 * [What I Do During A Data Science Project To Deliver Successfully](https://eugeneyan.com//writing/what-i-do-during-a-data-science-project-to-ensure-success/) - Sun, 12 Jul 2020
 * [How to Update a GitHub Profile README Automatically](https://eugeneyan.com//writing/how-to-update-github-profile-readme-automatically/) - Sat, 11 Jul 2020
 * [When Giving It Your 100% Gets You Less than 85%](https://eugeneyan.com//writing/when-giving-your-100-gets-you-less-than-85/) - Thu, 09 Jul 2020
 * [My Notes From Spark+AI Summit 2020 (Application-Specific Talks)](https://eugeneyan.com//writing/notes-from-sparkai-summit-application-specific/) - Sun, 05 Jul 2020
-* [My Notes From Spark+AI Summit 2020 (Application-Agnostic Talks)](https://eugeneyan.com//writing/notes-from-sparkai-summit-application-agnostic/) - Sun, 28 Jun 2020
 <!-- writing ends -->
 
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
