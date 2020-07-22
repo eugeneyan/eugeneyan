@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm Eugene Yan.
 
-I work at the intersection of consumer data & tech to build ML systems **to help customers**. I also write about effective data science, learning, and career. Currently an Applied Scientist at Amazon Kindle helping users read more. In addition, I'm ...
+I [work](https://eugeneyan.com/about/) at the intersection of consumer data & tech to build ML systems **to help customers**, and [write](https://eugeneyan.com/writing/) about **how to be more effective in data science & machine learning**.
 
-- 🌱 Learning more about recsys, NLP, and how to [write](https://eugeneyan.com/writing/).
-- 👨‍💻 Teaching a [free email course](https://eugeneyan.com/resources/) to help data scientists be more effective.
-- 🙌 Looking to collaborate on content and building communities.
-- 🗂 Curating [`applied-ml`](https://github.com/eugeneyan/applied-ml), a collection of papers & articles on ML applied in production.
+- 👨🏻‍💻 I'm an [Applied Scientist at Amazon](https://eugeneyan.com/about/) helping users read more, and get more out of books 📚.
+- 📝 I [write](https://eugeneyan.com/writing/) about effective data science, learning, and career to help teams and individuals.
+- 📬 I teach a [free email course](https://eugeneyan.com/resources/) to help data scientists be more effective.
+- 🗂 I curate [`applied-ml`](https://github.com/eugeneyan/applied-ml), a collection of papers & articles on ML applied in production.
 - ⌨️ Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
@@ -21,5 +21,4 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
 
 ---
-[My Site](https://eugeneyan.com) • [Twitter](https://twitter.com/eugeneyan) • [LinkedIn](https://www.linkedin.com/in/eugeneyan) • [Email](mailto:eugene@eugeneyan.com)  • [Other README](https://eugeneyan.com/readme/)
-<img src="https://gpvc.arturio.dev/eugeneyan" align="right" alt="Profile Views"><a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
