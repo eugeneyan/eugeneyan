@@ -12,11 +12,11 @@ I [work](https://eugeneyan.com/about/) at the intersection of consumer data & te
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [My Experience with Georgia Tech's OMSCS (an FAQ)](https://eugeneyan.com//writing/georgia-tech-omscs-faq/) - Sun, 26 Jul 2020
+* [How to Set Up a HTML App with FastAPI, Jinja, Forms & Templates](https://eugeneyan.com//writing/how-to-set-up-html-app-with-fastapi-jinja-forms-templates/) - Thu, 23 Jul 2020
 * [Why You Need to Follow Up After Your Data Science Project](https://eugeneyan.com//writing/why-you-need-to-follow-up-after-your-data-science-project/) - Sun, 19 Jul 2020
 * [What I Do During A Data Science Project To Deliver](https://eugeneyan.com//writing/what-i-do-during-a-data-science-project-to-ensure-success/) - Sun, 12 Jul 2020
 * [How to Update a GitHub Profile README Automatically](https://eugeneyan.com//writing/how-to-update-github-profile-readme-automatically/) - Sat, 11 Jul 2020
-* [The 85% Rule - When Giving It Your 100% Gets You Less than 85%](https://eugeneyan.com//writing/when-giving-your-100-gets-you-less-than-85/) - Thu, 09 Jul 2020
-* [My Notes From Spark+AI Summit 2020 (Application-Specific Talks)](https://eugeneyan.com//writing/notes-from-sparkai-summit-application-specific/) - Sun, 05 Jul 2020
 <!-- writing ends -->
 
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
