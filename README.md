@@ -7,7 +7,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of consumer data & te
 - 🎤 I speak [about](https://eugeneyan.com/speaking/) data science & machine learning in production, and data careers.
 - 📬 I teach a [free email course](https://eugeneyan.com/resources/) to help data scientists be more effective.
 - 📚 I curate [`applied-ml`](https://github.com/eugeneyan/applied-ml), a collection of papers & articles on ML applied in production.
-- ⌨️ Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
+- 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
 
