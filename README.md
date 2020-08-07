@@ -12,11 +12,11 @@ I [work](https://eugeneyan.com/about/) at the intersection of consumer data & te
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Adding a Checkbox & Download Button to a FastAPI-HTML app](https://eugeneyan.com//writing/fastapi-html-checkbox-download/) - Wed, 05 Aug 2020
 * [What I Did Not Learn About Writing In School](https://eugeneyan.com//writing/what-i-did-not-learn-about-writing-in-school/) - Sun, 02 Aug 2020
 * [Georgia Tech's OMSCS FAQ (based on my experience)](https://eugeneyan.com//writing/georgia-tech-omscs-faq/) - Sun, 26 Jul 2020
 * [How to Set Up a HTML App with FastAPI, Jinja, Forms & Templates](https://eugeneyan.com//writing/how-to-set-up-html-app-with-fastapi-jinja-forms-templates/) - Thu, 23 Jul 2020
 * [Why You Need to Follow Up After Your Data Science Project](https://eugeneyan.com//writing/why-you-need-to-follow-up-after-your-data-science-project/) - Sun, 19 Jul 2020
-* [What I Do During A Data Science Project To Deliver Success](https://eugeneyan.com//writing/what-i-do-during-a-data-science-project-to-ensure-success/) - Sun, 12 Jul 2020
 <!-- writing ends -->
 
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
