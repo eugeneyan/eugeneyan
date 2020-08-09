@@ -3,10 +3,10 @@
 I [work](https://eugeneyan.com/about/) at the intersection of consumer data & tech to build ML systems **to help customers**, and [write](https://eugeneyan.com/writing/) about how to be more effective in **data science, learning, and career**.
 
 - 👨🏻‍💻 I'm an [Applied Scientist at Amazon](https://eugeneyan.com/about/) helping users read more, and get more out of books.
-- 📝 I write [about](https://eugeneyan.com/writing/) effective data science, learning, and career to help teams and individuals.
-- 🎤 I speak [about](https://eugeneyan.com/speaking/) data science & machine learning in production, and data careers.
-- 📬 I teach a [free email course](https://eugeneyan.com/resources/) to help data scientists be more effective.
-- 📚 I curate [`applied-ml`](https://github.com/eugeneyan/applied-ml), a collection of papers & articles on ML applied in production.
+- 📝 I [write](https://eugeneyan.com/writing/) about effective data science, learning, and career to help teams and individuals.
+- 🎤 I [speak](https://eugeneyan.com/speaking/) about data science & machine learning in production, and data careers.
+- 📬 I [teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
+- 📚 I [curate](https://github.com/eugeneyan/applied-ml) `applied-ml`, a collection of papers & articles on ML applied in production.
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
