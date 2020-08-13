@@ -12,7 +12,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of consumer data & te
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Why (and How to) Be An End-to-End Data Scientist–More Value!](https://eugeneyan.com//writing/end-to-end-data-science/) - Sun, 09 Aug 2020
+* [Unpopular Opinion - Data Scientists Should Be More End-to-End](https://eugeneyan.com//writing/end-to-end-data-science/) - Sun, 09 Aug 2020
 * [Adding a Checkbox & Download Button to a FastAPI-HTML app](https://eugeneyan.com//writing/fastapi-html-checkbox-download/) - Wed, 05 Aug 2020
 * [What I Did Not Learn About Writing In School](https://eugeneyan.com//writing/what-i-did-not-learn-about-writing-in-school/) - Sun, 02 Aug 2020
 * [Georgia Tech's OMSCS FAQ (based on my experience)](https://eugeneyan.com//writing/georgia-tech-omscs-faq/) - Sun, 26 Jul 2020
