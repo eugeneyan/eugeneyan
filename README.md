@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Eugene Yan
 
-I [work](https://eugeneyan.com/about/) at the intersection of consumer data & tech to build ML systems **to help customers**, and [write](https://eugeneyan.com/writing/) about how to be more effective in **data science, learning, and career**.
+I [work](https://eugeneyan.com/about/) at the intersection of consumer data & tech to build machine learning systems **to help customers**, and [write](https://eugeneyan.com/writing/) about how to be more effective in **data science, learning, and career**.
 
 - 👨🏻‍💻 I'm an [Applied Scientist at Amazon](https://eugeneyan.com/about/) helping users read more, and get more out of books.
 - 📝 I [write](https://eugeneyan.com/writing/) about effective data science, learning, and career to help teams and individuals.
