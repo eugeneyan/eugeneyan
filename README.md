@@ -11,7 +11,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of consumer data & te
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Why We Should Keep Reading Papers](https://eugeneyan.com//writing/why-read-papers/) - Sun, 30 Aug 2020
+* [How Reading Papers Helps You Be a More Effective Data Scientist](https://eugeneyan.com//writing/why-read-papers/) - Sun, 30 Aug 2020
 * [Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert](https://eugeneyan.com//writing/beginners-mind/) - Sun, 23 Aug 2020
 * [NLP for Supervised Learning - A Brief Survey](https://eugeneyan.com//writing/nlp-supervised-learning-survey/) - Sun, 16 Aug 2020
 * [Unpopular Opinion - Data Scientists Should Be More End-to-End](https://eugeneyan.com//writing/end-to-end-data-science/) - Sun, 09 Aug 2020
