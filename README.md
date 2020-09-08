@@ -1,11 +1,10 @@
 ### 👋 Hi, I'm Eugene Yan
 
-I [work](https://eugeneyan.com/about/) at the intersection of consumer data & tech to build machine learning systems **to help customers**, and [write](https://eugeneyan.com/writing/) about how to be more effective in **data science, learning, and career**.
+I [work](https://eugeneyan.com/about/) at the intersection of consumer data & tech to build machine learning systems **to help customers**. Currently an Applied Scientist at Amazon helping users read more, and get more out of reading. I also...
 
-- 👨🏻‍💻 I'm an [Applied Scientist at Amazon](https://eugeneyan.com/about/) helping users read more, and get more out of books.
-- 📝 I [write](https://eugeneyan.com/writing/) about effective data science, learning, and career to help teams and individuals.
-- 🎤 I [speak](https://eugeneyan.com/speaking/) about data science & machine learning in production, and data careers.
-- 📬 I [teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
+- 📝 [Write](https://eugeneyan.com/writing/) about effective data science, learning, and career to help teams and individuals.
+- 🎤 [Speak](https://eugeneyan.com/speaking/) about data science & machine learning in production, and data careers.
+- 📬 [Teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
