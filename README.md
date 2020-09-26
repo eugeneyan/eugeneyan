@@ -10,7 +10,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of **consumer data & 
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [CareerFair Interview - Day-to-day as a Data Scientist at Amazon](https://eugeneyan.com//speaking/data-scientist-day-to-day/) - Mon, 21 Sep 2020
+* [CareerFair - Day-to-day as an Applied Scientist at Amazon](https://eugeneyan.com//speaking/data-scientist-day-to-day/) - Mon, 21 Sep 2020
 * [Routines and Tools to Optimize My Day (Guest Post by Susan Shu)](https://eugeneyan.com//writing/favorite-productivity-coffee-routines-habits/) - Sun, 20 Sep 2020
 * [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com//writing/how-to-accomplish-more-with-less/) - Sun, 13 Sep 2020
 * [Migrating Site Comments to Utterances](https://eugeneyan.com//writing/migrating-to-utterances/) - Mon, 07 Sep 2020
