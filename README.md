@@ -10,11 +10,11 @@ I [work](https://eugeneyan.com/about/) at the intersection of **consumer data & 
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Is Writing Documents as Important as Writing Code?](https://eugeneyan.com//writing/writing-and-coding/) - Sun, 04 Oct 2020
 * [RecSys 2020 - Takeaways and Notable Papers](https://eugeneyan.com//writing/recsys2020/) - Sun, 27 Sep 2020
 * [Appreciating the Present](https://eugeneyan.com//writing/present/) - Sat, 26 Sep 2020
 * [CareerFair - Day-to-day as an Applied Scientist at Amazon](https://eugeneyan.com//speaking/data-scientist-day-to-day/) - Mon, 21 Sep 2020
 * [Routines and Tools to Optimize My Day (Guest Post by Susan Shu)](https://eugeneyan.com//writing/favorite-productivity-coffee-routines-habits/) - Sun, 20 Sep 2020
-* [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com//writing/how-to-accomplish-more-with-less/) - Sun, 13 Sep 2020
 <!-- writing ends -->
 
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
