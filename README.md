@@ -10,7 +10,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of **consumer data & 
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How to Install Google’s Scalable Nearest Neighbors (ScaNN) on Mac](https://eugeneyan.com//writing/how-to-install-scann-on-mac/) - Wed, 14 Oct 2020
+* [How to Install Google Scalable Nearest Neighbors (ScaNN) on Mac](https://eugeneyan.com//writing/how-to-install-scann-on-mac/) - Wed, 14 Oct 2020
 * [How Prototyping Can Help You to Get Buy-In](https://eugeneyan.com//writing/prototyping-to-get-buy-in/) - Sun, 11 Oct 2020
 * [Is Writing Documents as Important as Writing Code?](https://eugeneyan.com//writing/writing-and-coding/) - Sun, 04 Oct 2020
 * [RecSys 2020 - Takeaways and Notable Papers](https://eugeneyan.com//writing/recsys2020/) - Sun, 27 Sep 2020
