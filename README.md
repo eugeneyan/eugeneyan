@@ -10,11 +10,11 @@ I [work](https://eugeneyan.com/about/) at the intersection of **consumer data & 
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [7 Machine Learning Lessons We Can Apply to Life](https://eugeneyan.com//writing/life-lessons-from-machine-learning/) - Sun, 22 Nov 2020
 * [How to Prevent or Deal with a Data Science Role or Title Mismatch](https://eugeneyan.com//writing/role-title-mismatch/) - Sun, 15 Nov 2020
 * [Data/Applied/Research Scientist, ML Engineer - What’s the Difference?](https://eugeneyan.com//writing/data-science-roles/) - Sun, 08 Nov 2020
 * [Informal Mentors: Chip Huyen on Her Career, Writing, and ML](https://eugeneyan.com//writing/informal-mentors-chip-huyen/) - Sun, 01 Nov 2020
 * [Almost Everything You Need To Know on Data Discovery Platforms](https://eugeneyan.com//writing/data-discovery-platforms/) - Sun, 25 Oct 2020
-* [Why I switched from Netlify back to GitHub Pages](https://eugeneyan.com//writing/netlify-back-to-github-pages/) - Wed, 21 Oct 2020
 <!-- writing ends -->
 
 View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
