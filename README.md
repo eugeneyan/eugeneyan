@@ -11,7 +11,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 
 <!-- writing starts -->
 * [Alexey Grigorev on His Career, Data Science, and Writing](https://eugeneyan.com//writing/informal-mentors-alexey-grigorev/) - Sun, 29 Nov 2020
-* [7 Lessons From Machine Learning Lessons Applied to Life](https://eugeneyan.com//writing/life-lessons-from-machine-learning/) - Sun, 22 Nov 2020
+* [What Machine Learning Can Teach Us About Life: 7 Lessons](https://eugeneyan.com//writing/life-lessons-from-machine-learning/) - Sun, 22 Nov 2020
 * [How to Prevent or Deal with a Data Science Role or Title Mismatch](https://eugeneyan.com//writing/role-title-mismatch/) - Sun, 15 Nov 2020
 * [Data/Applied/Research Scientist, ML Engineer - What’s the Difference?](https://eugeneyan.com//writing/data-science-roles/) - Sun, 08 Nov 2020
 * [Chip Huyen on Her Career, Writing, and Machine Learning](https://eugeneyan.com//writing/informal-mentors-chip-huyen/) - Sun, 01 Nov 2020
