@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Eugene Yan
 
-I [work](https://eugeneyan.com/about/) at the intersection of **machine learning & product** to build and deploy ML systems especially in B2C businesses. Currently an Applied Scientist at Amazon helping users read more, and get more out of reading. I also...
+I [work](https://eugeneyan.com/about/) at the intersection of **machine learning & product** to build and deploy ML systems, especially in B2C businesses. Currently an Applied Scientist at Amazon helping users read more, and get more out of reading. I also...
 
 - 📝 [Write](https://eugeneyan.com/writing/) & [speak](https://eugeneyan.com/speaking/) about effective data science, machine learning in production, and career.
 - 🧠 [Teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
