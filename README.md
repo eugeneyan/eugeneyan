@@ -17,7 +17,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 * [Data/Applied/Research Scientist, ML Engineer - What’s the Difference?](https://eugeneyan.com//writing/data-science-roles/) - Sun, 08 Nov 2020
 <!-- writing ends -->
 
-View the archives at [eugeneyan.com/writing](https://eugeneyan.com/writing/).
+View the archives @ [eugeneyan.com/writing](https://eugeneyan.com/writing/). More about me @ [eugeneyan.com/about](https://eugeneyan.com/about/).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
