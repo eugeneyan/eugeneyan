@@ -10,11 +10,11 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [2020 Retrospective: New Country, New Role, New Habit](https://eugeneyan.com//writing/retrospective-2020/) - Sun, 20 Dec 2020
 * [Catch the Flying Daggers](https://eugeneyan.com//writing/flying-dagger/) - Fri, 11 Dec 2020
 * [How I’m Reflecting on 2020 and Planning for 2021](https://eugeneyan.com//writing/how-i-reflect-and-plan/) - Sun, 06 Dec 2020
 * [Alexey Grigorev on His Career, Data Science, and Writing](https://eugeneyan.com//writing/informal-mentors-alexey-grigorev/) - Sun, 29 Nov 2020
 * [What Machine Learning Can Teach Us About Life: 7 Lessons](https://eugeneyan.com//writing/life-lessons-from-machine-learning/) - Sun, 22 Nov 2020
-* [How to Prevent or Deal with a Data Science Role or Title Mismatch](https://eugeneyan.com//writing/role-title-mismatch/) - Sun, 15 Nov 2020
 <!-- writing ends -->
 
 View the archives @ [eugeneyan.com](https://eugeneyan.com).
