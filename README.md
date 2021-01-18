@@ -10,11 +10,11 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Teardown: Real-time Machine Learning For Recommendations](https://eugeneyan.com//writing/real-time-recommendations/) - Sun, 10 Jan 2021
+* [DataTalksClub - The Importance Of Writing In A Tech Career](https://eugeneyan.com//speaking/writing-for-a-tech-career/) - Sun, 17 Jan 2021
+* [Real-time Machine Learning For Recommendations](https://eugeneyan.com//writing/real-time-recommendations/) - Sun, 10 Jan 2021
 * [2021 Roadmap: Sharing, Helping, and Living More](https://eugeneyan.com//writing/2021-roadmap/) - Sun, 03 Jan 2021
 * [2020 Retrospective: New Country, New Role, New Habit](https://eugeneyan.com//writing/retrospective-2020/) - Sun, 20 Dec 2020
 * [Catch the Flying Daggers](https://eugeneyan.com//writing/flying-dagger/) - Fri, 11 Dec 2020
-* [How I’m Reflecting on 2020 and Planning for 2021](https://eugeneyan.com//writing/how-i-reflect-and-plan/) - Sun, 06 Dec 2020
 <!-- writing ends -->
 
 View the archives @ [eugeneyan.com](https://eugeneyan.com).
