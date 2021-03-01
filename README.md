@@ -10,7 +10,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How I Write Work Documents - Why, What, How](https://eugeneyan.com//writing/writing-docs-why-what-how/) - Sun, 28 Feb 2021
+* [Writing Documents at Work - Why, What, How](https://eugeneyan.com//writing/writing-docs-why-what-how/) - Sun, 28 Feb 2021
 * [Feature Stores - A Hierarchy of Needs](https://eugeneyan.com//writing/feature-stores/) - Sun, 21 Feb 2021
 * [How to Win a Data Hackathon (Hacklytics 2021)](https://eugeneyan.com//writing/how-to-win-data-hackathon/) - Sun, 14 Feb 2021
 * [DataTalksClub - Building an ML System; Behind the Scenes](https://eugeneyan.com//writing/machine-learning-in-healthcare/) - Sun, 07 Feb 2021
