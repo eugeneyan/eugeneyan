@@ -38,8 +38,12 @@ if __name__ == '__main__':
     entries_md = '\n'.join(
         ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
     )
+
+    # Update entries
     rewritten_entries = replace_writing(readme, 'writing', entries_md)
     readme_path.open('w').write(rewritten_entries)
 
-    rewritten_entries = replace_writing(readme, 'writing_count', entry_count, inline=True)
-    readme_path.open('w').write(rewritten_entries)
+    # Update count
+    readme = readme_path.open().read()  # Need to read again with updated entries
+    rewritten_count = replace_writing(readme, 'writing_count', entry_count, inline=True)
+    readme_path.open('w').write(rewritten_count)
