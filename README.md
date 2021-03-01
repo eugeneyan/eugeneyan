@@ -17,7 +17,7 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 * [You Don't Really Need Another MOOC](https://eugeneyan.com//writing/you-dont-need-another-mooc/) - Sun, 24 Jan 2021
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->103<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->104<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
