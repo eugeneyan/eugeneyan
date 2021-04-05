@@ -10,9 +10,9 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How Your Values and Superpowers can Guide Career Choices](https://eugeneyan.com//writing/values-and-superpowers/) - Sun, 04 Apr 2021
-* [Bukalapak - Fireside Chat with Data Science and Engineering](https://eugeneyan.com//speaking/bukalapak-fireside/) - Sun, 28 Mar 2021
-* [TalkPython - What ML can Teach Us About Life: 7 Lessons](https://eugeneyan.com//speaking/talk-python/) - Fri, 26 Mar 2021
+* [Values, Superpowers, and Career Choices](https://eugeneyan.com//writing/values-and-superpowers/) - Sun, 04 Apr 2021
+* [Bukalapak - Fireside Chat with the Data Science team](https://eugeneyan.com//speaking/bukalapak-fireside/) - Sun, 28 Mar 2021
+* [TalkPython - What ML can Teach Us About Life](https://eugeneyan.com//speaking/talk-python/) - Fri, 26 Mar 2021
 * [Choosing Problems in Data Science and Machine Learning](https://eugeneyan.com//writing/how-to-choose-problems/) - Sun, 21 Mar 2021
 * [Seven Habits that Shaped My Last Decade](https://eugeneyan.com//writing/seven-habits-that-shaped-my-decade/) - Sun, 14 Mar 2021
 <!-- writing ends -->
