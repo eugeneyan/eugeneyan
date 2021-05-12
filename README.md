@@ -10,7 +10,6 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Towards Data Science - Author Spotlight with Eugene Yan](https://eugeneyan.com//speaking/tds-author-spotlight/) - Sun, 09 May 2021
 * [The Metagame of Applying Machine Learning](https://eugeneyan.com//writing/machine-learning-metagame/) - Sun, 02 May 2021
 * [Search: Query Matching via Lexical, Graph, and Embedding Methods](https://eugeneyan.com//writing/search-query-matching/) - Sun, 25 Apr 2021
 * [My Impostor Syndrome Stories (Guest Post by Susan Shu)](https://eugeneyan.com//writing/imposter-syndrome-susan/) - Sun, 18 Apr 2021
