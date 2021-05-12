@@ -10,14 +10,14 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Towards Data Science - Author Spotlight with Eugene Yan](https://eugeneyan.com//speaking/tds-author-spotlight/) - Sun, 09 May 2021
 * [The Metagame of Applying Machine Learning](https://eugeneyan.com//writing/machine-learning-metagame/) - Sun, 02 May 2021
 * [Search: Query Matching via Lexical, Graph, and Embedding Methods](https://eugeneyan.com//writing/search-query-matching/) - Sun, 25 Apr 2021
 * [My Impostor Syndrome Stories (Guest Post by Susan Shu)](https://eugeneyan.com//writing/imposter-syndrome-susan/) - Sun, 18 Apr 2021
 * [How to Live with Chronic Imposter Syndrome](https://eugeneyan.com//writing/imposter-syndrome/) - Sun, 11 Apr 2021
+* [Planning Your Career: Values and Superpowers](https://eugeneyan.com//writing/values-and-superpowers/) - Sun, 04 Apr 2021
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->120<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->119<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
