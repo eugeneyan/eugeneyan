@@ -10,14 +10,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Influencing without Authority for Data Scientists](https://eugeneyan.com//writing/influencing-without-authority/) - Sun, 04 Jul 2021
 * [System Design for Recommendations and Search](https://eugeneyan.com//writing/system-design-for-discovery/) - Sun, 27 Jun 2021
 * [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com//writing/patterns-for-personalization/) - Sun, 13 Jun 2021
 * [Towards Data Science - Author Spotlight with Eugene Yan](https://eugeneyan.com//speaking/tds-author-spotlight/) - Wed, 02 Jun 2021
 * [The Metagame of Applying Machine Learning](https://eugeneyan.com//writing/machine-learning-metagame/) - Sun, 02 May 2021
-* [Search: Query Matching via Lexical, Graph, and Embedding Methods](https://eugeneyan.com//writing/search-query-matching/) - Sun, 25 Apr 2021
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->122<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->123<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
