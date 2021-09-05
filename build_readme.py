@@ -36,7 +36,7 @@ if __name__ == '__main__':
     entries, entry_count = fetch_writing()
     print(f'Recent 5: {entries}, Total count: {entry_count}')
     entries_md = '\n'.join(
-        ['* [{title}]({url})'.format(**entry) for entry in entries]
+        ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
     )
 
     # Update entries
@@ -44,6 +44,6 @@ if __name__ == '__main__':
     readme_path.open('w').write(rewritten_entries)
 
     # Update count
-    readme = readme_path.open().read()  # Need to read again with updated entries
-    rewritten_count = replace_writing(readme, 'writing_count', entry_count, inline=True)
-    readme_path.open('w').write(rewritten_count)
+    # readme = readme_path.open().read()  # Need to read again with updated entries
+    # rewritten_count = replace_writing(readme, 'writing_count', entry_count, inline=True)
+    # readme_path.open('w').write(rewritten_count)
