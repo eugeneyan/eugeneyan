@@ -24,7 +24,7 @@ def fetch_writing():
                {
                    'title': entry['title'],
                    'url': entry['link'].split('#')[0],
-                   'published': re.findall(r'(.*?)\s00:00', entry['published'])[0]
+                   'published': re.findall(r'(.*?)T00:00', entry['published'])[0]
                }
                for entry in top5_entries
            ], entry_count
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     entries, entry_count = fetch_writing()
     print(f'Recent 5: {entries}, Total count: {entry_count}')
     entries_md = '\n'.join(
-        ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
+        ['* [{title}]({url})'.format(**entry) for entry in entries]
     )
 
     # Update entries

@@ -10,14 +10,14 @@ I [work](https://eugeneyan.com/about/) at the intersection of **machine learning
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Feature Stores - A Hierarchy of Needs](https://eugeneyan.com//writing/feature-stores/) - Sun, 21 Feb 2021
-* [How to Win a Data Hackathon (Hacklytics 2021)](https://eugeneyan.com//writing/how-to-win-data-hackathon/) - Sun, 14 Feb 2021
-* [DataTalksClub - Building an ML System; Behind the Scenes](https://eugeneyan.com//writing/machine-learning-in-healthcare/) - Sun, 07 Feb 2021
-* [Growing and Running Your Data Science Team](https://eugeneyan.com//writing/data-science-teams/) - Sun, 31 Jan 2021
-* [You Don't Really Need Another MOOC](https://eugeneyan.com//writing/you-dont-need-another-mooc/) - Sun, 24 Jan 2021
+* [Bootstrapping Labels via ___ Supervision &amp; Human-In-The-Loop](https://eugeneyan.com/writing/bootstrapping-data-labels/)
+* [Mailbag: How to Bootstrap Labels for Relevant Docs in Search](https://eugeneyan.com/writing/mailbag-bootstrap-relevant-docs/)
+* [SF Big Analytics - System Design for RecSys &amp; Search](https://eugeneyan.com/speaking/sf-data-meetup-recsys/)
+* [Influencing without Authority for Data Scientists](https://eugeneyan.com/writing/influencing-without-authority/)
+* [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->104<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
