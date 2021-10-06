@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [RecSys 2021 - Papers and Talks to chew on](https://eugeneyan.com/writing/recsys2021/) - 2021-10-03
+* [RecSys 2021 - Papers and Talks to Chew on](https://eugeneyan.com/writing/recsys2021/) - 2021-10-03
 * [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/) - 2021-09-19
 * [MLOps Community - System Design for RecSys &amp; Search](https://eugeneyan.com/speaking/mlops-community-recsys/) - 2021-09-15
 * [Reinforcement Learning for Recommendations and Search](https://eugeneyan.com/writing/reinforcement-learning-for-recsys-and-search/) - 2021-09-05
