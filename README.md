@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Bootstrapping Labels via ___ Supervision &amp; Human-In-The-Loop](https://eugeneyan.com/writing/bootstrapping-data-labels/) - 2021-08-01
-* [Mailbag: How to Bootstrap Labels for Relevant Docs in Search](https://eugeneyan.com/writing/mailbag-bootstrap-relevant-docs/) - 2021-07-20
-* [SF Big Analytics - System Design for RecSys &amp; Search](https://eugeneyan.com/speaking/sf-data-meetup-recsys/) - 2021-07-13
-* [Influencing without Authority for Data Scientists](https://eugeneyan.com/writing/influencing-without-authority/) - 2021-07-04
-* [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/) - 2021-06-27
+* [What I Learned from Writing Online - For Fellow Non-Writers](https://eugeneyan.com//writing/what-i-learned-from-writing-online/) - Sun, 17 Oct 2021
+* [RecSys 2021 - Papers and Talks to Chew on](https://eugeneyan.com//writing/recsys2021/) - Sun, 03 Oct 2021
+* [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com//writing/first-rule-of-ml/) - Sun, 19 Sep 2021
+* [MLOps Community - System Design for RecSys & Search](https://eugeneyan.com//speaking/mlops-community-recsys/) - Wed, 15 Sep 2021
+* [Reinforcement Learning for Recommendations and Search](https://eugeneyan.com//writing/reinforcement-learning-for-recsys-and-search/) - Sun, 05 Sep 2021
 <!-- writing ends -->
 
-View the archives @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->132<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
