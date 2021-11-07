@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [5 Lessons I Learned from Writing Online (Guest post by Susan Shu)](https://eugeneyan.com//writing/what-i-learned-from-writing-online-susan-shu/) - Sun, 07 Nov 2021
 * [What I Learned from Writing Online - For Fellow Non-Writers](https://eugeneyan.com//writing/what-i-learned-from-writing-online/) - Sun, 17 Oct 2021
 * [RecSys 2021 - Papers and Talks to Chew on](https://eugeneyan.com//writing/recsys2021/) - Sun, 03 Oct 2021
 * [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com//writing/first-rule-of-ml/) - Sun, 19 Sep 2021
 * [MLOps Community - System Design for RecSys & Search](https://eugeneyan.com//speaking/mlops-community-recsys/) - Wed, 15 Sep 2021
-* [Reinforcement Learning for Recommendations and Search](https://eugeneyan.com//writing/reinforcement-learning-for-recsys-and-search/) - Sun, 05 Sep 2021
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->132<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->133<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
