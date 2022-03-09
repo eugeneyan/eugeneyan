@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Data Science Project Quick-Start](https://eugeneyan.com//writing/project-quick-start/) - Sun, 06 Mar 2022
+* [Mailbag: How to Define a Data Team's Vision and Roadmap](https://eugeneyan.com//writing/becoming-a-data-leader/) - Fri, 18 Feb 2022
 * [Red Flags to Look Out for When Joining a Data Team](https://eugeneyan.com//writing/red-flags/) - Sun, 13 Feb 2022
 * [How to Keep Learning about Machine Learning](https://eugeneyan.com//writing/how-to-keep-learning/) - Wed, 19 Jan 2022
 * [The Data Scientist Show - Building end-to-end ML systems](https://eugeneyan.com//speaking/data-science-show-eugene-yan/) - Thu, 02 Dec 2021
-* [2021 Year in Review](https://eugeneyan.com//writing/2021-year-in-review/) - Sun, 28 Nov 2021
-* [5 Lessons I Learned from Writing Online (Guest post by Susan Shu)](https://eugeneyan.com//writing/what-i-learned-from-writing-online-susan-shu/) - Sun, 07 Nov 2021
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->137<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->139<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
