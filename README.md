@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Bandits for Recommender Systems](https://eugeneyan.com//writing/bandit-recsys/) - Sun, 08 May 2022
+* [Bandits for Recommender Systems](https://eugeneyan.com//writing/bandits/) - Sun, 08 May 2022
 * [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/) - Sun, 17 Apr 2022
 * [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com//writing/counterfactual-evaluation/) - Sun, 10 Apr 2022
 * [Traversing High-Level Intent and Low-Level Requirements](https://eugeneyan.com//writing/intent-vs-requirements/) - Sun, 20 Mar 2022
