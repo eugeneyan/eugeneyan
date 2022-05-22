@@ -6,7 +6,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 - 🧠 [Teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
 - 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
 - 📬 [Send](https://eugeneyan.com/subscribe/) a newsletter about data science, learning, and career.
-- 🌱 I'm learning: Counterfactual learning & [evaluation](https://eugeneyan.com/start-here/#machine-learning-techniques), [design patterns](https://github.com/eugeneyan/design-patterns), and Julia.
+- 🌱 I'm learning: [Bandits](https://eugeneyan.com/writing/bandits/) & [counterfactual evaluation](https://eugeneyan.com/writing/counterfactual-evaluation/), [design patterns](https://github.com/eugeneyan/design-patterns), and Julia.
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
