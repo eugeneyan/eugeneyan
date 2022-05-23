@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Onboarding Effectively - Mindset and 100-day Plan](https://eugeneyan.com//writing/onboarding/) - Sun, 22 May 2022
 * [Bandits for Recommender Systems](https://eugeneyan.com//writing/bandits/) - Sun, 08 May 2022
 * [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/) - Sun, 17 Apr 2022
 * [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com//writing/counterfactual-evaluation/) - Sun, 10 Apr 2022
 * [Traversing High-Level Intent and Low-Level Requirements](https://eugeneyan.com//writing/intent-vs-requirements/) - Sun, 20 Mar 2022
-* [Data Science Project Quick-Start](https://eugeneyan.com//writing/project-quick-start/) - Sun, 06 Mar 2022
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->144<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->145<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
