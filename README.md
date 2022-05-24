@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Onboarding Effectively - Mindset and 100-day Plan](https://eugeneyan.com//writing/onboarding/) - Sun, 22 May 2022
+* [What I Wish I Knew About Onboarding Effectively](https://eugeneyan.com//writing/onboarding/) - Sun, 22 May 2022
 * [Bandits for Recommender Systems](https://eugeneyan.com//writing/bandits/) - Sun, 08 May 2022
 * [How to Measure and Mitigate Position Bias](https://eugeneyan.com//writing/position-bias/) - Sun, 17 Apr 2022
 * [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com//writing/counterfactual-evaluation/) - Sun, 10 Apr 2022
