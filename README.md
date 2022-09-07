@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Testing Data and Machine Learning Pipelines](https://eugeneyan.com//writing/testing-pipelines/) - Sun, 04 Sep 2022
+* [How to Test Data & ML Pipelines and Make Testing Less Brittle](https://eugeneyan.com//writing/testing-pipelines/) - Sun, 04 Sep 2022
 * [Simplicity is An Advantage but Sadly Complexity Sells Better](https://eugeneyan.com//writing/simplicity/) - Sun, 14 Aug 2022
 * [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com//writing/uncommon-python/) - Sun, 31 Jul 2022
 * [Why You Should Write Weekly 15-5s](https://eugeneyan.com//writing/15-5/) - Sun, 26 Jun 2022
