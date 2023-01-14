@@ -3,8 +3,8 @@
 I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Applied Scientist at Amazon helping users read more, and get more out of reading. Outside of work, I also...
 
 - 📝 [Write](https://eugeneyan.com/writing/) & [speak](https://eugeneyan.com/speaking/) about effective data science, data/ML systems, and career growth.
-- 🧠 [Teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
 - 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
+- 🪩 [Host](https://www.meetup.com/ml-meetups-virtual/) monthly meetups (and after-parties!) on machine learning in industry.
 - 📬 [Send](https://eugeneyan.com/subscribe/) a newsletter about data science, learning, and career.
 - 🌱 I'm learning (in 2023): Search, best practices for Python & engineering, and business & product basics.
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
