@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Goodbye Roam Research, Hello Obsidian](https://eugeneyan.com//writing/roam-to-obsidian/) - Sun, 15 Jan 2023
 * [What To Do If Dependency Teams Can’t Help](https://eugeneyan.com//writing/getting-help/) - Sun, 08 Jan 2023
 * [2022 in Review & 2023 Goals](https://eugeneyan.com//writing/2022-in-review/) - Sat, 24 Dec 2022
 * [Autoencoders and Diffusers: A Brief Comparison](https://eugeneyan.com//writing/autoencoders-vs-diffusers/) - Sun, 11 Dec 2022
 * [Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space](https://eugeneyan.com//writing/text-to-image/) - Sun, 27 Nov 2022
-* [RecSys 2022: Recap, Favorite Papers, and Lessons](https://eugeneyan.com//writing/recsys2022/) - Sun, 02 Oct 2022
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->156<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->157<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
