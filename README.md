@@ -6,7 +6,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 - 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
 - 🪩 [Host](https://www.meetup.com/ml-meetups-virtual/) monthly meetups (and after-parties!) on machine learning in industry.
 - 📬 [Send](https://eugeneyan.com/subscribe/) a newsletter about data science, learning, and career.
-- 🌱 I'm learning (in 2023): Search, content moderation, engineering practices, and business/product [mechanisms](https://eugeneyan.com/start-here/#mechanisms-for-business-product-and-tech-teams).
+- 🌱 I'm learning (in 2023): Search, content moderation, and business/product [mechanisms](https://eugeneyan.com/start-here/#mechanisms-for-business-product-and-tech-teams).
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
