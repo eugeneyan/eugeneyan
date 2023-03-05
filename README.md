@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Content Moderation - Patterns in Industry](https://eugeneyan.com//writing/content-moderation/) - Sun, 26 Feb 2023
+* [Content Moderation & Fraud Detection - Patterns in Industry](https://eugeneyan.com//writing/content-moderation/) - Sun, 26 Feb 2023
 * [Mechanisms for Effective Technical Teams](https://eugeneyan.com//writing/mechanisms-for-teams/) - Sun, 05 Feb 2023
 * [Mechanisms for Effective Machine Learning Projects](https://eugeneyan.com//writing/mechanisms-for-projects/) - Sun, 22 Jan 2023
 * [Goodbye Roam Research, Hello Obsidian](https://eugeneyan.com//writing/roam-to-obsidian/) - Sun, 15 Jan 2023
