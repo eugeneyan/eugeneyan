@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How LLM Apps can Help Us Research, Reflect, and Plan](https://eugeneyan.com//writing/llm-experiments/) - Sun, 09 Apr 2023
+* [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com//writing/llm-experiments/) - Sun, 09 Apr 2023
 * [LLM-powered Biographies](https://eugeneyan.com//writing/llm-bio/) - Sun, 19 Mar 2023
 * [How to Write Data Labeling/Annotation Guidelines](https://eugeneyan.com//writing/labeling-guidelines/) - Sun, 12 Mar 2023
 * [Content Moderation & Fraud Detection - Patterns in Industry](https://eugeneyan.com//writing/content-moderation/) - Sun, 26 Feb 2023
