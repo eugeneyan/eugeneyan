@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Eugene Yan
 
-I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Applied Scientist at Amazon helping users read more, and get more out of reading. Outside of work, I also...
+I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm a Senior Applied Scientist at Amazon helping users read more, and get more out of reading. Outside of work, I also...
 
 - 📝 [Write](https://eugeneyan.com/writing/) & [speak](https://eugeneyan.com/speaking/) about machine learning systems, engineering, and career.
 - 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
