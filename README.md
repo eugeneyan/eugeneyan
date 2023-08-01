@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Design Patterns for LLM Systems & Products](https://eugeneyan.com//writing/llm-patterns/) - Sun, 30 Jul 2023
 * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com//writing/obsidian-copilot/) - Sun, 11 Jun 2023
 * [Some Intuition on Attention and the Transformer](https://eugeneyan.com//writing/attention/) - Sun, 21 May 2023
 * [Open-LLMs - A list of LLMs for Commercial Use](https://eugeneyan.com//writing/open-llms/) - Sun, 07 May 2023
 * [Interacting with LLMs with Minimal Chat](https://eugeneyan.com//writing/llm-ux/) - Sun, 30 Apr 2023
-* [More Design Patterns For Machine Learning Systems](https://eugeneyan.com//writing/more-patterns/) - Sun, 23 Apr 2023
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->169<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->170<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
