@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Design Patterns for LLM Systems & Products](https://eugeneyan.com//writing/llm-patterns/) - Sun, 30 Jul 2023
+* [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com//writing/llm-patterns/) - Sun, 30 Jul 2023
 * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com//writing/obsidian-copilot/) - Sun, 11 Jun 2023
 * [Some Intuition on Attention and the Transformer](https://eugeneyan.com//writing/attention/) - Sun, 21 May 2023
 * [Open-LLMs - A list of LLMs for Commercial Use](https://eugeneyan.com//writing/open-llms/) - Sun, 07 May 2023
