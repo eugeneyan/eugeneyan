@@ -6,7 +6,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 - 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
 - 🪩 [Host](https://www.meetup.com/ml-meetups-virtual/) monthly meetups (and after-parties!) on machine learning in industry.
 - 📬 [Send](https://eugeneyan.com/subscribe/) a newsletter about data, machine learning, and what I'm learning.
-- 🌱 In 2023 I'm learning: [Search](https://github.com/eugeneyan/obsidian-copilot#how-does-it-work), [LLMs](https://eugeneyan.com/tag/llm/), [content moderation](https://eugeneyan.com//writing/content-moderation/), and business/team [mechanisms](https://eugeneyan.com/start-here/#mechanisms-for-business-product-and-tech-teams).
+- 🌱 In 2023 I'm learning: [Search](https://github.com/eugeneyan/obsidian-copilot#how-does-it-work), [LLMs](https://eugeneyan.com/writing/llm-patterns/), [content moderation](https://eugeneyan.com//writing/content-moderation/), and business/team [mechanisms](https://eugeneyan.com/start-here/#mechanisms-for-business-product-and-tech-teams).
 - 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
@@ -22,4 +22,5 @@ I design, build, and operate machine learning systems that serve customers at sc
 View the archives (<!-- writing_count starts -->170<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan)
+<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
