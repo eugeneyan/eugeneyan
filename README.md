@@ -23,4 +23,4 @@ View the archives (<!-- writing_count starts -->170<!-- writing_count ends --> p
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan)
-<img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
