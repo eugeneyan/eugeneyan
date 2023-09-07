@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Abstractive Summaries: Evaluation & Hallucination Detection](https://eugeneyan.com//writing/abstractive/) - Sun, 03 Sep 2023
+* [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com//writing/abstractive/) - Sun, 03 Sep 2023
 * [How to Match LLM Patterns to Problems](https://eugeneyan.com//writing/llm-problems/) - Sun, 13 Aug 2023
 * [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com//writing/llm-patterns/) - Sun, 30 Jul 2023
 * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com//writing/obsidian-copilot/) - Sun, 11 Jun 2023
