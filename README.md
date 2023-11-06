@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Finetuning on Out-of-Domain Data to Detect Factual Inconsistency](https://eugeneyan.com//writing/finetuning/) - Sun, 05 Nov 2023
 * [Reflections on AI Engineer Summit 2023](https://eugeneyan.com//writing/aieng-reflections/) - Sun, 15 Oct 2023
 * [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com//speaking/ai-eng-summit/) - Mon, 09 Oct 2023
 * [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com//writing/abstractive/) - Sun, 03 Sep 2023
 * [How to Match LLM Patterns to Problems](https://eugeneyan.com//writing/llm-problems/) - Sun, 13 Aug 2023
-* [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com//writing/llm-patterns/) - Sun, 30 Jul 2023
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->174<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->175<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan)
