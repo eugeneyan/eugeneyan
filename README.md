@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Out-of-Domain Pre-Finetuning to Bootstrap Hallucination Detection](https://eugeneyan.com//writing/finetuning/) - Sun, 05 Nov 2023
+* [Out-of-Domain Finetuning to Bootstrap Hallucination Detection](https://eugeneyan.com//writing/finetuning/) - Sun, 05 Nov 2023
 * [Reflections on AI Engineer Summit 2023](https://eugeneyan.com//writing/aieng-reflections/) - Sun, 15 Oct 2023
 * [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com//speaking/ai-eng-summit/) - Mon, 09 Oct 2023
 * [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com//writing/abstractive/) - Sun, 03 Sep 2023
