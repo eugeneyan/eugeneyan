@@ -2,12 +2,12 @@
 
 I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm a Senior Applied Scientist at Amazon helping users read more, and get more out of reading. Outside of work, I also...
 
-- 📝 [Write](https://eugeneyan.com/writing/) & [speak](https://eugeneyan.com/speaking/) about machine learning systems, engineering, and career.
-- 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
-- 🪩 [Host](https://www.meetup.com/ml-meetups-virtual/) monthly meetups (and after-parties!) on machine learning in industry.
-- 📬 [Send](https://eugeneyan.com/subscribe/) a newsletter about data, machine learning, and what I'm learning.
-- 🌱 In 2023 I'm learning: [LLMs](https://eugeneyan.com/writing/llm-experiments/), [more LLMs](https://eugeneyan.com/writing/llm-patterns/), [search](https://github.com/eugeneyan/obsidian-copilot#how-does-it-work), [content moderation](https://eugeneyan.com//writing/content-moderation/), and organizational [mechanisms](https://eugeneyan.com/start-here/#mechanisms-for-business-product-and-tech-teams).
-- 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
+- [Write](https://eugeneyan.com/writing/), [speak](https://eugeneyan.com/speaking/), and [prototype](https://eugeneyan.com/prototyping/) on ideas in machine learning, RecSys, and LLMs.
+- [Curate](https://applyingml.com) papers, guides, and interviews on applying machine learning effectively.
+- [Host](https://www.meetup.com/ml-meetups-virtual/) monthly ML meetups and a weekly [LLM reading group](https://lu.ma/llm-paper-club) with practitioners.
+- [Send](https://eugeneyan.com/subscribe/) a newsletter about data, ML, and what I'm learning to 6,300+ subscribers.
+- In 2024 I'm learning: Synthetic data, shrinking models, and cold-start/ad recsys.
+- Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
 
