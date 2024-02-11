@@ -6,7 +6,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 - [Curate](https://applyingml.com) papers, guides, and interviews on applying machine learning effectively.
 - [Host](https://www.meetup.com/ml-meetups-virtual/) monthly ML meetups and a weekly [LLM reading group](https://lu.ma/llm-paper-club) with practitioners.
 - [Send](https://eugeneyan.com/subscribe/) a newsletter about data, ML, and what I'm learning to 6,300+ subscribers.
-- In 2024 I'm learning: Synthetic data, shrinking models, and cold-start/ad recsys.
+- In 2024 I'm learning: [Synthetic data](https://eugeneyan.com/writing/synthetic/), application evals, scaling teams, and cold-start/ad recsys.
 - Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
