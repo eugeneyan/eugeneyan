@@ -12,10 +12,10 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How to Generate Synthetic Data for Pretraining and Finetuning](https://eugeneyan.com//writing/synthetic/) - Sun, 11 Feb 2024
+* [Synthetic Data for Finetuning: Distillation and Self-Improvement](https://eugeneyan.com//writing/synthetic/) - Sun, 11 Feb 2024
 * [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com//writing/llm-reading-list/) - Sun, 07 Jan 2024
 * [2023 Year in Review](https://eugeneyan.com//writing/2023-review/) - Sun, 31 Dec 2023
-* [Push Notifications - What to Push, What Not to Push, and How Often](https://eugeneyan.com//writing/push/) - Sun, 24 Dec 2023
+* [Push Notifications: What to Push, What Not to Push, and How Often](https://eugeneyan.com//writing/push/) - Sun, 24 Dec 2023
 * [Out-of-Domain Finetuning to Bootstrap Hallucination Detection](https://eugeneyan.com//writing/finetuning/) - Sun, 05 Nov 2023
 <!-- writing ends -->
 
