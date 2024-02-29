@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Don't Mock Your Machine Learning Models In Unit Tests](https://eugeneyan.com//writing/unit-testing-ml/) - Sun, 25 Feb 2024
+* [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com//writing/unit-testing-ml/) - Sun, 25 Feb 2024
 * [Synthetic Data for Finetuning: Distillation and Self-Improvement](https://eugeneyan.com//writing/synthetic/) - Sun, 11 Feb 2024
 * [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com//writing/llm-reading-list/) - Sun, 07 Jan 2024
 * [2023 Year in Review](https://eugeneyan.com//writing/2023-review/) - Sun, 31 Dec 2023
