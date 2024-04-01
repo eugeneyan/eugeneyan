@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [A Builder's Guide to Evals for LLM-based Applications](https://eugeneyan.com//writing/evals/) - Sun, 31 Mar 2024
 * [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com//writing/unit-testing-ml/) - Sun, 25 Feb 2024
 * [How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com//writing/synthetic/) - Sun, 11 Feb 2024
 * [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com//writing/llm-reading-list/) - Sun, 07 Jan 2024
 * [2023 Year in Review](https://eugeneyan.com//writing/2023-review/) - Sun, 31 Dec 2023
-* [Push Notifications: What to Push, What Not to Push, and How Often](https://eugeneyan.com//writing/push/) - Sun, 24 Dec 2023
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->180<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->181<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
