@@ -13,13 +13,13 @@ I design, build, and operate machine learning systems that serve customers at sc
 
 <!-- writing starts -->
 * [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com//writing/prompting/) - Sun, 26 May 2024
-* [What We've Learned From A Year of Building with LLMs](https://eugeneyan.com//writing/llm-lessons/) - Sun, 12 May 2024
 * [Building an AI Coach to Help Tame My Monkey Mind](https://eugeneyan.com//writing/ai-coach/) - Sun, 07 Apr 2024
 * [Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com//writing/evals/) - Sun, 31 Mar 2024
 * [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com//writing/unit-testing-ml/) - Sun, 25 Feb 2024
+* [How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com//writing/synthetic/) - Sun, 11 Feb 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->184<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->183<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
