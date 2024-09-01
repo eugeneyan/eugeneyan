@@ -4,7 +4,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 
 - [Write](https://eugeneyan.com/writing/), [speak](https://eugeneyan.com/speaking/), and [prototype](https://eugeneyan.com/prototyping/) on ideas in machine learning, RecSys, and LLMs.
 - Teach how to apply ML/LLMs effectively at [ApplyingML.com](https://applyingml.com) & [Applied-LLMs.org](https://applied-llms.org).
-- Host an [AI Job Board](https://jobs.applied-llms.org) for execs/seniors, monthly [ML Meetups](https://www.meetup.com/ml-meetups-virtual/), weekly [LLM Paper Club](https://lu.ma/ls).
+- Host a weekly [LLM Paper Club](https://lu.ma/ls), monthly [ML Meetups](https://www.meetup.com/ml-meetups-virtual/), and an [AI Job Board](https://jobs.applied-llms.org) for execs/seniors.
 - [Send](https://eugeneyan.com/subscribe/) a newsletter about data, ML, and what I'm learning to 7,000+ subscribers.
 - In 2024 I'm learning: [Synthetic data](https://eugeneyan.com/writing/synthetic/), [application evals](https://eugeneyan.com/writing/evals/), [LLM-evaluators](https://eugeneyan.com/writing/llm-evaluators/), and [applied LLM best practices](https://applied-llms.org).
 - Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
