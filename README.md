@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Building the Same App across Various Web Frameworks](https://eugeneyan.com//writing/web-frameworks/) - Sun, 08 Sep 2024
+* [Building the Same App Using Various Web Frameworks](https://eugeneyan.com//writing/web-frameworks/) - Sun, 08 Sep 2024
 * [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com//writing/llm-evaluators/) - Sun, 18 Aug 2024
 * [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com//writing/how-to-interview/) - Sun, 07 Jul 2024
 * [AIE World's Fair 2024 Keynote - What We Learned from a Year of LLMs](https://eugeneyan.com//speaking/aie-2024/) - Thu, 27 Jun 2024
