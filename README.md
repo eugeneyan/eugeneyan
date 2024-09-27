@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Judge - Weights & Biases LLM-Evaluator Hackathon](https://eugeneyan.com//speaking/hackathon-judge/) - Sun, 22 Sep 2024
+* [Weights & Biases LLM-Evaluator Hackathon - Hackathon Judge](https://eugeneyan.com//speaking/hackathon-judge/) - Sun, 22 Sep 2024
 * [Building the Same App Using Various Web Frameworks](https://eugeneyan.com//writing/web-frameworks/) - Sun, 08 Sep 2024
 * [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com//writing/llm-evaluators/) - Sun, 18 Aug 2024
 * [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com//writing/how-to-interview/) - Sun, 07 Jul 2024
