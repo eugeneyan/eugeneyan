@@ -12,7 +12,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How to Run a Weekly Paper Club and Build a Learning Community](https://eugeneyan.com//writing/paper-club/) - Sun, 24 Nov 2024
+* [How to Run a Weekly Paper Club (and Build a Learning Community)](https://eugeneyan.com//writing/paper-club/) - Sun, 24 Nov 2024
 * [My Minimal MacBook Pro Setup Guide](https://eugeneyan.com//writing/mac-setup/) - Sun, 17 Nov 2024
 * [39 Lessons on Building ML Systems, Scaling, Execution, and More](https://eugeneyan.com//writing/conf-lessons/) - Sun, 03 Nov 2024
 * [AlignEval: Building an App to Make Evals Easy, Fun, and Automated](https://eugeneyan.com//writing/aligneval/) - Sun, 27 Oct 2024
