@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Some Paradoxical Rules of Writing](https://eugeneyan.com//writing/paradox/) - Sun, 01 Dec 2024
 * [How to Run a Weekly Paper Club (and Build a Learning Community)](https://eugeneyan.com//writing/paper-club/) - Sun, 24 Nov 2024
 * [My Minimal MacBook Pro Setup Guide](https://eugeneyan.com//writing/mac-setup/) - Sun, 17 Nov 2024
 * [39 Lessons on Building ML Systems, Scaling, Execution, and More](https://eugeneyan.com//writing/conf-lessons/) - Sun, 03 Nov 2024
 * [AlignEval: Building an App to Make Evals Easy, Fun, and Automated](https://eugeneyan.com//writing/aligneval/) - Sun, 27 Oct 2024
-* [Weights & Biases LLM-Evaluator Hackathon - Hackathon Judge](https://eugeneyan.com//speaking/hackathon-judge/) - Sun, 22 Sep 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->194<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->195<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
