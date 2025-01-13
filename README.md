@@ -12,14 +12,14 @@ I design, build, and operate machine learning systems that serve customers at sc
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Building AI Reading Club: Features & Behind the Scenes](https://eugeneyan.com//writing/aireadingclub/) - Sun, 12 Jan 2025
 * [2024 Year in Review](https://eugeneyan.com//writing/2024-review/) - Sun, 22 Dec 2024
 * [A Spark of the Anti-AI Butlerian Jihad (on Bluesky)](https://eugeneyan.com//writing/anti/) - Sun, 08 Dec 2024
 * [Seemingly Paradoxical Rules of Writing](https://eugeneyan.com//writing/paradox/) - Sun, 01 Dec 2024
 * [How to Run a Weekly Paper Club (and Build a Learning Community)](https://eugeneyan.com//writing/paper-club/) - Sun, 24 Nov 2024
-* [My Minimal MacBook Pro Setup Guide](https://eugeneyan.com//writing/mac-setup/) - Sun, 17 Nov 2024
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->197<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->198<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
