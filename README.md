@@ -6,7 +6,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 - Teach how to apply ML/LLMs effectively at [ApplyingML.com](https://applyingml.com) & [Applied-LLMs.org](https://applied-llms.org).
 - Host a weekly [LLM Paper Club](https://lu.ma/ls), monthly [ML Meetups](https://www.meetup.com/ml-meetups-virtual/), and an [AI Job Board](https://jobs.applied-llms.org) for execs/seniors.
 - [Send](https://eugeneyan.com/subscribe/) a newsletter about data, ML, and what I'm learning to 10,000+ subscribers.
-- In 2025 I'm learning: Blending RecSys + LLMs, how to build webapps & iOS, career meta thinking.
+- In 2025 I'm learning: [Improving RecSys with LLMs](https://eugeneyan.com/writing/recsys-llm/), how to build webapps & iOS, career meta thinking.
 - Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
