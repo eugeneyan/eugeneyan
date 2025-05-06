@@ -11,7 +11,7 @@ I build recommendation systems and AI-powered experiences that serve customers a
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [Building News Agents to Summarize News with MCP, Q, and tmux](https://eugeneyan.com//writing/news-agents/) - Sun, 04 May 2025
+* [Building News Agents for Daily News Recaps with MCP, Q, and tmux](https://eugeneyan.com//writing/news-agents/) - Sun, 04 May 2025
 * [An LLM-as-Judge Won't Save The Product—Fixing Your Process Will](https://eugeneyan.com//writing/eval-process/) - Sun, 20 Apr 2025
 * [Frequently Asked Questions about My Writing Process](https://eugeneyan.com//writing/writing-faq/) - Sun, 30 Mar 2025
 * [NVIDIA GTC 2025 - Building LLM-Powered Applications](https://eugeneyan.com//speaking/nvidia-gtc-2025/) - Tue, 18 Mar 2025
