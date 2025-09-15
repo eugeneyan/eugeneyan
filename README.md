@@ -11,14 +11,14 @@ I build recommendation systems and AI-powered experiences that serve customers a
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs](https://eugeneyan.com//writing/semantic-ids/) - Sun, 14 Sep 2025
 * [Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com//writing/qa-evals/) - Sun, 22 Jun 2025
 * [AI Engineer 2025 - Improving RecSys & Search with LLM techniques](https://eugeneyan.com//speaking/aie-2025/) - Wed, 04 Jun 2025
 * [Exceptional Leadership: Some Qualities, Behaviors, and Styles](https://eugeneyan.com//writing/leadership/) - Sun, 18 May 2025
 * [Building News Agents for Daily News Recaps with MCP, Q, and tmux](https://eugeneyan.com//writing/news-agents/) - Sun, 04 May 2025
-* [An LLM-as-Judge Won't Save The Product—Fixing Your Process Will](https://eugeneyan.com//writing/eval-process/) - Sun, 20 Apr 2025
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->206<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->207<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
