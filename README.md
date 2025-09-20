@@ -5,7 +5,7 @@ I build recommendation systems and AI-powered experiences that serve customers a
 - [Write](https://eugeneyan.com/writing/), [speak](https://eugeneyan.com/speaking/), and [prototype](https://eugeneyan.com/prototyping/) on ideas in machine learning, RecSys, and LLMs.
 - Teach how to apply ML/LLMs effectively at [ApplyingML.com](https://applyingml.com) & [Applied-LLMs.org](https://applied-llms.org).
 - [Send](https://eugeneyan.com/subscribe/) a newsletter about data, ML, and what I'm learning to 10,000+ subscribers.
-- In 2025 I'm learning: [improving RecSys with LLMs](https://eugeneyan.com/writing/recsys-llm/), [long-context Q&A evals](https://eugeneyan.com/writing/qa-evals/), semantic IDs.
+- In 2025 I'm learning: [improving RecSys with LLMs](https://eugeneyan.com/writing/recsys-llm/), [long-context Q&A evals](https://eugeneyan.com/writing/qa-evals/), [semantic IDs](https://eugeneyan.com/writing/semantic-ids/).
 - Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
 
 ### 📝 Recent Writing
