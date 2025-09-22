@@ -11,7 +11,7 @@ I build recommendation systems and AI-powered experiences that serve customers a
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs](https://eugeneyan.com//writing/semantic-ids/) - Sun, 14 Sep 2025
+* [Training an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs](https://eugeneyan.com//writing/semantic-ids/) - Sun, 14 Sep 2025
 * [Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com//writing/qa-evals/) - Sun, 22 Jun 2025
 * [AI Engineer 2025 - Improving RecSys & Search with LLM techniques](https://eugeneyan.com//speaking/aie-2025/) - Wed, 04 Jun 2025
 * [Exceptional Leadership: Some Qualities, Behaviors, and Styles](https://eugeneyan.com//writing/leadership/) - Sun, 18 May 2025
