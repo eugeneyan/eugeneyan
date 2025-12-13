@@ -18,7 +18,7 @@ I build recommendation systems and AI-powered experiences that serve customers a
 * [AI Engineer 2025 - Improving RecSys & Search with LLM techniques](https://eugeneyan.com//speaking/aie-2025/) - Wed, 04 Jun 2025
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->209<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->208<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
