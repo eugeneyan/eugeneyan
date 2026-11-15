@@ -18,7 +18,7 @@ I build recommendation systems and AI-powered experiences that serve customers a
 * [2025 Year in Review](https://eugeneyan.com/writing/2025-review) - Sun, 14 Dec 2025
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->213<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->214<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
 
 ---
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
